@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&display=swap');
+
+:root {
+  --pry-font: 'Manrope', sans-serif;
+  --clr-accent-400: hsl(150, 100%, 66%);
+  --clr-accent-350: hsl(193, 38%, 86%);
+
+  /* Neutral colors */
+  --clr-neutral-400: hsl(217, 19%, 38%);
+  --clr-neutral-350: hsl(217, 19%, 24%);
+  --clr-neutral-300: hsl(218, 23%, 16%);
+}
